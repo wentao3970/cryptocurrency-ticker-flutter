@@ -1,8 +1,8 @@
-# Bitcoin Ticker
+# Bitcoin Ticker Project
 
 Make a crypto currency price checking app
 
-## Our Goal
+## Goal
 
 Use Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
